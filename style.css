@@ -183,7 +183,7 @@ a:hover{
 }
 
 .header .nav li:hover a{
-	color:#fff;
+	color: #000;
 }
 .header .nav li .dropdown{
 	background: #333;
