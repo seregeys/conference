@@ -278,7 +278,10 @@ a:hover{
 }
 .slider .text {
 	margin-top: 90px;
+	text-align: center;
+	width: 100%;
 }
+
 .slider h1 {
 	color: #fff;
 	font-size: 60px;
