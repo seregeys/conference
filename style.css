@@ -134,9 +134,12 @@ a:hover{
 }
 
  img {
-	width: 150px;
-    height: 60px;
+	width: 90px;
+    height: 90px;
 }
+
+
+
 .header .logo{
 	float:left;
 	padding-top:10px;
@@ -152,7 +155,7 @@ a:hover{
 .header .nav li{
     float: left;
 	position:relative;
-	min-width: 125px;
+	min-width: 105px;
 }
 .header .nav li:last-child{
 	margin:0;
